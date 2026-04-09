@@ -1,0 +1,17 @@
+int main()
+{
+    int a,b,c,d;
+    a=20;
+    for(b=10;b<20;b++)
+    {
+      
+        a++;
+         println(a);
+    }
+    println(a);
+    if(a>25)
+    {
+        a=a+20;
+    }
+    println(a);
+}
